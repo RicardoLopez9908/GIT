@@ -1,5 +1,7 @@
 **ALGUNOS COMANDOS IMPORTANTES PARA USAR EN GIT**
 
+En windows: abrimos "git bash here"
+
 Crea un directorio nuevo, ábrelo y ejecuta:
 
 git init (para crear un nuevo repositorio de git.)
